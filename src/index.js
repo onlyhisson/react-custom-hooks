@@ -1,7 +1,9 @@
 import React from "react";
 import ReactDOM from "react-dom";
 //import App from "./hooks/useInput";
-import App from "./hooks/useTabs";
+//import App from "./hooks/useTabs";
+//import App from "./hooks/useEffectIntro";
+import App from "./hooks/useTitle";
 import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(
