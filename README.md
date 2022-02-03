@@ -2,7 +2,12 @@
 
 [O] useInput\
 [O] useTabs\
-[O] useTitle (useEffect)
+[O] useTitle\
+[O] useClick\
+[O] useHover\
+[O] useConfirm\
+[O] usePreventLeave\
+[O] useBeforeLeave\
 
 ### `npm start`
 
@@ -11,5 +16,3 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-

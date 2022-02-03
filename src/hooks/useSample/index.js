@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import { useSample } from "./useSample";
 
 const App = () => {
   return (
