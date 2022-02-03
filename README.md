@@ -1,7 +1,8 @@
 # React Hooks Examples
 
-[ ] useInput\
-[ ] useTabs
+[O] useInput\
+[O] useTabs\
+[O] useTitle (useEffect)
 
 ### `npm start`
 
