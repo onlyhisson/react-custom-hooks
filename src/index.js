@@ -10,7 +10,8 @@ import ReactDOM from "react-dom";
 //import App from "./hooks/usePreventLeave";
 //import App from "./hooks/useBeforeLeave";
 //import App from "./hooks/useFadeIn";
-import App from "./hooks/useNetwork";
+//import App from "./hooks/useNetwork";
+import App from "./hooks/useScroll";
 import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(
