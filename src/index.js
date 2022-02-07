@@ -8,7 +8,9 @@ import ReactDOM from "react-dom";
 //import App from "./hooks/useHover";
 //import App from "./hooks/useConfirm";
 //import App from "./hooks/usePreventLeave";
-import App from "./hooks/useBeforeLeave";
+//import App from "./hooks/useBeforeLeave";
+//import App from "./hooks/useFadeIn";
+import App from "./hooks/useNetwork";
 import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(

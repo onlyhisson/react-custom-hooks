@@ -8,6 +8,8 @@
 [O] useConfirm\
 [O] usePreventLeave\
 [O] useBeforeLeave\
+[O] useFadeIn\
+[O] useNetwork
 
 ### `npm start`
 
