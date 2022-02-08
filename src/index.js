@@ -12,7 +12,8 @@ import ReactDOM from "react-dom";
 //import App from "./hooks/useFadeIn";
 //import App from "./hooks/useNetwork";
 //import App from "./hooks/useScroll";
-import App from "./hooks/useFullscreen";
+//import App from "./hooks/useFullscreen";
+import App from "./hooks/useNotification";
 import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(
