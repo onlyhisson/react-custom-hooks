@@ -9,7 +9,8 @@
 [O] usePreventLeave\
 [O] useBeforeLeave\
 [O] useFadeIn\
-[O] useNetwork
+[O] useNetwork\
+[O] useDimensions
 
 ### `npm start`
 
