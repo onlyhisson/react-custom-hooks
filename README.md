@@ -10,7 +10,8 @@
 [O] useBeforeLeave\
 [O] useFadeIn\
 [O] useNetwork\
-[O] useDimensions
+[O] useWindowDimensions\
+[O] useLocalStorage
 
 ### `npm start`
 

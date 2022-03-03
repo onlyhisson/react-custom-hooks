@@ -15,7 +15,8 @@ import ReactDOM from "react-dom";
 //import App from "./hooks/useFullscreen";
 //import App from "./hooks/useNotification";
 //import App from "./hooks/useAxios";
-import App from "./hooks/useWindowDimensions";
+//import App from "./hooks/useWindowDimensions";
+import App from "./hooks/useLocalStorage";
 import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(
