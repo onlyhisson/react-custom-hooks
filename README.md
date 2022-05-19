@@ -1,17 +1,22 @@
 # React Hooks Examples
 
+[O] useAxios\
+[O] useBeforeLeave\
+[O] useClick\
+[O] useConfirm\
+[O] useEffectIntro\
+[O] useFadeIn\
+[O] useFullscreen\
+[O] useHover\
 [O] useInput\
+[O] useLocalStorage\
+[O] useNetwork\
+[O] useNotification\
+[O] usePreventLeave\
+[O] useScroll\
 [O] useTabs\
 [O] useTitle\
-[O] useClick\
-[O] useHover\
-[O] useConfirm\
-[O] usePreventLeave\
-[O] useBeforeLeave\
-[O] useFadeIn\
-[O] useNetwork\
-[O] useWindowDimensions\
-[O] useLocalStorage
+[O] useWindowDimensions
 
 ### `npm start`
 
